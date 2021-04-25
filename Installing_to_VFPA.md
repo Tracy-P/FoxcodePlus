@@ -1,4 +1,4 @@
-#Installing to VFPA
+# Installing to VFPA
 I cloned the upstream to my local box.
 Copied the Foxcode.app, FoxcodePlus.app, and FoxcodePlus directory in to the VFPA install folder.
 Turning on the FoxcodePlus feature wouldn't "stay" on. 
